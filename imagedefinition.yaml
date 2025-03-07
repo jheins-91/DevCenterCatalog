@@ -1,0 +1,11 @@
+$schema: "1.0"
+name: "ASP.NET Praktikum"
+image: microsoftvisualstudio_visualstudioplustools_vs-2022-ent-general-win11-m365-gen2
+description: "This definition is for participants of the ASP.NET Core Praktikum"
+
+tasks:
+  - name: winget
+    description: Install Advanced Rest Client
+    parameters:
+      package: PawelPsztyc.AdvancedRestClient
+      
